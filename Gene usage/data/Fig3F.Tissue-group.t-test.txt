@@ -1,0 +1,71 @@
+Family	Group1	Group2	P_value	FDR_p	FDR_group
+IGHV1	Immune related	Large intestine	0.041466795004477044	0.04758484672644907	1
+IGHV1	Immune related	Small intestine	0.016105138790659952	0.01818322121526124	1
+IGHV1	Immune related	Gastric	0.36797847818380436		-1
+IGHV1	Immune related	Alone	0.6067305955747928		-1
+IGHV1	Large intestine	Small intestine	0.3343390722293895		-1
+IGHV1	Large intestine	Gastric	0.5093404558486399		-1
+IGHV1	Large intestine	Alone	0.5966076969527712		-1
+IGHV1	Small intestine	Gastric	0.15994197781974098		-1
+IGHV1	Small intestine	Alone	0.22155327803856315		-1
+IGHV1	Gastric	Alone	0.9491919234443408		-1
+IGHV2	Immune related	Large intestine	0.2917558761974404		-1
+IGHV2	Immune related	Small intestine	0.3008265031700421		-1
+IGHV2	Immune related	Gastric	0.15696773457872504		-1
+IGHV2	Immune related	Alone	0.4458359651033009		-1
+IGHV2	Large intestine	Small intestine	0.10708710273082674		-1
+IGHV2	Large intestine	Gastric	0.5739325449406717		-1
+IGHV2	Large intestine	Alone	0.8179888283021122		-1
+IGHV2	Small intestine	Gastric	0.08258545263739238		-1
+IGHV2	Small intestine	Alone	0.28310234899307507		-1
+IGHV2	Gastric	Alone	0.8776238068845865		-1
+IGHV3	Immune related	Large intestine	0.7648873221470691		-1
+IGHV3	Immune related	Small intestine	0.9370917163899596		-1
+IGHV3	Immune related	Gastric	0.7639475055717541		-1
+IGHV3	Immune related	Alone	0.5161255146998465		-1
+IGHV3	Large intestine	Small intestine	0.8588673407947834		-1
+IGHV3	Large intestine	Gastric	0.9188952113578772		-1
+IGHV3	Large intestine	Alone	0.3118116176834123		-1
+IGHV3	Small intestine	Gastric	0.8077947825263784		-1
+IGHV3	Small intestine	Alone	0.40926319254196486		-1
+IGHV3	Gastric	Alone	0.30060485942569576		-1
+IGHV4	Immune related	Large intestine	0.27617829647235115		-1
+IGHV4	Immune related	Small intestine	0.46177075233881937		-1
+IGHV4	Immune related	Gastric	0.44576940465391035		-1
+IGHV4	Immune related	Alone	0.8266309091915123		-1
+IGHV4	Large intestine	Small intestine	0.89857695515975		-1
+IGHV4	Large intestine	Gastric	0.9585034010804347		-1
+IGHV4	Large intestine	Alone	0.35401484177634657		-1
+IGHV4	Small intestine	Gastric	0.9445134892788665		-1
+IGHV4	Small intestine	Alone	0.38419824880505205		-1
+IGHV4	Gastric	Alone	0.3286541242722876		-1
+IGHV5	Immune related	Large intestine	0.6447418676772112		-1
+IGHV5	Immune related	Small intestine	0.296150201962335		-1
+IGHV5	Immune related	Gastric	0.623663941727832		-1
+IGHV5	Immune related	Alone	0.17077351318620262		-1
+IGHV5	Large intestine	Small intestine	0.05802824773564195		-1
+IGHV5	Large intestine	Gastric	0.29907031464920847		-1
+IGHV5	Large intestine	Alone	0.01907705088206647	0.01907705088206647	1
+IGHV5	Small intestine	Gastric	0.6070639150185823		-1
+IGHV5	Small intestine	Alone	0.22742164173587184		-1
+IGHV5	Gastric	Alone	0.22249644267469854		-1
+IGHV6	Immune related	Large intestine	0.5303145175209792		-1
+IGHV6	Immune related	Small intestine	0.19415341382946402		-1
+IGHV6	Immune related	Gastric	0.978952243868034		-1
+IGHV6	Immune related	Alone	0.5550146088392078		-1
+IGHV6	Large intestine	Small intestine	0.07621157396880537		-1
+IGHV6	Large intestine	Gastric	0.5645317039616701		-1
+IGHV6	Large intestine	Alone	0.7261347631966504		-1
+IGHV6	Small intestine	Gastric	0.26442614763471994		-1
+IGHV6	Small intestine	Alone	0.24529561813760165		-1
+IGHV6	Gastric	Alone	0.4246558107144327		-1
+IGHV7	Immune related	Large intestine	0.00014646417094728274	0.00016273796771920304	3
+IGHV7	Immune related	Small intestine	0.0003117880175072805	0.0008730064490203854	3
+IGHV7	Immune related	Gastric	0.8369777344022072		-1
+IGHV7	Immune related	Alone	0.7230652708388787		-1
+IGHV7	Large intestine	Small intestine	0.6560725831788161		-1
+IGHV7	Large intestine	Gastric	0.004134416298907748	0.013154960951070105	1
+IGHV7	Large intestine	Alone	0.15713235457635227		-1
+IGHV7	Small intestine	Gastric	0.002214574306083422	0.015502020142583955	1
+IGHV7	Small intestine	Alone	0.09819508701769951		-1
+IGHV7	Gastric	Alone	0.5916766286119566		-1
