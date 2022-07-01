@@ -6,8 +6,7 @@ This repository contains all scripts and preliminary statistics related to the k
 
 ## Software
 
-In-house scripts were written in Python (v3.7.4) using modules including NumPy (v1.16.5), Biopython (v1.73), Levenshtein (v0.12.0), SciPy (v1.3.0), Collections,
-scikit-learn (v1.0.2) and Pandas (v0.25.1). The algorithm of pairwise2.align.globalms from Biopython (v1.73) was applied for the global alignment. Modules including seaborn (v0.10.1) and Matplotlib (v3.3.2) were used for visualization. The statistical methods used for each analysis were labeled in the figure legends accordingly.
+In-house scripts were written in Python (v3.9.0) using modules including NumPy (v1.23.0), pytz (v2022.1), Biopython (v1.73), Levenshtein (v0.18.0), SciPy (v1.3.0), scikit-learn (v1.0.2), upsetplot (v0.6.1), pytz (v2022.1), python-dateutil (v2.8.2), statsmodels (v0.13.2), joblib (v1.1.0) and Pandas (v0.25.1). The algorithm of pairwise2.align.globalms from Biopython (v1.73) was applied for the global alignment. Modules including seaborn (v0.11.2) and Matplotlib (v3.5.2) were used for visualization. The statistical methods used for each analysis were labeled in the figure legends accordingly.
 
 # Data preprocess
 
