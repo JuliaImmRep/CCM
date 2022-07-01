@@ -1,0 +1,1 @@
+antibody_id	source_id	class_l3	vdj_nt_seq	vdj_aa_seq	cdr3_nt_seq	cdr3_aa_seq	vdj_recombination	chain_type	pubmed_id	article	description

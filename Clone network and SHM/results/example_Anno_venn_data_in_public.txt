@@ -1,0 +1,2 @@
+Clone	Known	Thera	CK	CT	KT	CKT
+1361	5764	0	1	0	0	0

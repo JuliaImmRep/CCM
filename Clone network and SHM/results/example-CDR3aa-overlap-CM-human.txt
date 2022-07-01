@@ -1,0 +1,3 @@
+	Human all	Human public
+CM all	5	71
+CM public	1	17
