@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains all scripts and preliminary statistics related to the key analyses in each section in the Result of the manuscript (MS) " Multi-tissue architecture of the adaptive immune receptor repertoire in the cynomolgus macaque". These analyses can be classified into five categories, including data preprocess, novel alleles, gene usage, clone network and SHM, and class switch. More details can be found in the following sections.
+This repository contains all scripts and preliminary statistics related to the key analyses in each section in the Result of the manuscript (MS) " Multi-tissue architecture of the adaptive immune receptor repertoire in the cynomolgus macaque". These analyses can be classified into five categories, including data preprocess, novel alleles, gene usage, clone network and SHM, and class switch, And the scripts and test data are stored in separate folders. More details can be found in the following sections.
 
 ## Software
 
