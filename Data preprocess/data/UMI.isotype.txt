@@ -1,0 +1,4 @@
+Group	Total_group	Error_group
+Fw	2469	0
+Rev	2468	0
+Dual	2469	0
